@@ -1,5 +1,5 @@
 # Dangling-Balls
-A simple stree buster game for casual mobile gaming
+A simple stress buster game for casual mobile gaming
 ---------------------------------------------------
 platform - Android
 ---------------------------------------------------
