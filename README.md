@@ -17,5 +17,5 @@ Instructions
    appearing balls.
 6) Have fun playing it :)
 ---------------------------------------------------
-(Note : it has yet to be uploaded on play store)
+
  
